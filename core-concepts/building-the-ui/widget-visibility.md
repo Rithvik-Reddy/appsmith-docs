@@ -21,7 +21,7 @@ We can use the value obtained from an API to dynamically set the visibility of a
 
 ![Click to expand](../../.gitbook/assets/widget-visibility-api.gif)
 
-In the example shown below the value of the radio buttons is sent as a parameter for the API named "getObject". The API response is then used to dynamically change the visibility of a widget using a condition. 
+In the example shown above the value of the radio buttons is sent as a parameter to the API named "getObject". The API response is then used to dynamically change the visibility of a widget using a condition. 
 
 The condition below is used in object A
 
